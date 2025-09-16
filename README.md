@@ -34,10 +34,10 @@ pip install tensorflow numpy matplotlib
 Execute the main script to train and test the model.
 python main_script.py
 
-Research Paper
+### Research Paper
 This project is supported by a team research paper that discusses the theoretical and practical aspects of the model.
 
-Download the Research Paper (PDF)
+[Download the Research Paper (PDF)](https://github.com/mdshahadathossainit/cats-and-dogs-deep-learning-project/blob/main/Documentation.pdf)
 
 Contact
 For any questions or suggestions, please feel free to reach out.
